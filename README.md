@@ -1,6 +1,5 @@
 ## Hi 👋!
-
-Follow me on github or on [twitter](twitter.come/xyeres)
+Thanks for stopping by. Feel free to take a look at what I've been working on, if you'd like to stay in touch, follow me here on github or on [twitter](twitter.come/xyeres)
 
 <!--
 **xyeres/xyeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
