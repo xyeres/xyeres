@@ -1,7 +1,7 @@
-## Hi👋, I'm michael. Currently developing a SaaS app for the music industry. 
-Thanks for stopping by. Feel free to take a look at what I've been working on, if you'd like to stay in touch, follow me here on github or on [twitter](https://twitter.come/xyeres)
+## Hi👋 I'm michael and I'm currently developing a SaaS app for the music industry. 
+Thanks for stopping by, if you'd like to stay in touch, follow me here on github or on [twitter](https://twitter.come/xyeres)
 
-I tend to write little things here and there on my blog at [xyeres.com](http://xyeres.com)
+I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
 
 Stay curious ✨
 
