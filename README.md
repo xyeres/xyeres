@@ -3,11 +3,11 @@ Currently enrolled as a techdegree student.
 
 Thanks for stopping by, if you'd like to stay in touch, follow me here on github or on [twitter](https://twitter.come/xyeres)
 
-I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
 
 Stay curious ✨
 
 <!--
+I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
 **xyeres/xyeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
