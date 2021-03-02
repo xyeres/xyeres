@@ -1,4 +1,6 @@
 ## Hi👋 I'm michael and I'm currently developing a SaaS app for the music industry. 
+Currently enrolled as a techdegree student.
+
 Thanks for stopping by, if you'd like to stay in touch, follow me here on github or on [twitter](https://twitter.come/xyeres)
 
 I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
