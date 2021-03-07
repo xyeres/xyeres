@@ -2,7 +2,7 @@ Full stack software engineer with a unique understanding of the customer journey
 
 Currently building a SaaS app for the music industry that helps labels more easily calculate and report their royalties. 
 
-Adaptable mind with the ability to quickly learn and apply knowledge in dynamic environments. Self motivated contributor committed to sparking team synergy with strong communication and listening skills. 
+Adaptable mind with the ability to quickly learn and apply knowledge in dynamic environments. Self motivated contributor committed to sparking team synergy through strong communication and listening skills. 
 
 Languages: HTML5, CSS3, JavaScript, Python, SQL, Bash
 Frameworks: Node.js, React, React Native, Next.js, Django
