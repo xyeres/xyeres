@@ -8,7 +8,7 @@ Languages: HTML5, CSS3, JavaScript, Python, SQL, Bash
 Frameworks: Node.js, React, React Native, Next.js, Django
 Tools: Git, GitHub, Agile, VS Code, Visual Studio, Heroku, PostgreSQL, Docker, MongoDB, Web Sockets, AWS EC2, AWS S3, Azure DevOps, Azure Blob Storage, Azure VM, Azure AD, Azure SQL, VirtualBox, Slack
 
-Feel free to [https://www.linkedin.com/in/mxcarr/](connect with me on LinkedIn)
+⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/) and tell me what you're up to!
 
 Stay curious. Do good. 🔭✨
 
