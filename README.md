@@ -1,4 +1,4 @@
-Full stack software engineer with a unique understanding of the customer journey after ten years of music industry experience building, marking, and developing media products and services. Driven to solve tough business problems with my team by building better software.
+Full stack software engineer with a unique understanding of the customer journey after ten years of music industry experience building, marketing, and developing media products and services. Driven to solve tough business problems with my team by building better software.
 
 Currently building a SaaS app for the music industry that helps labels more easily calculate and report their royalties. 
 
