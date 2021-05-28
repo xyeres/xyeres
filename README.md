@@ -1,4 +1,4 @@
-Hi! I'm a full stack web developer [currently] building a SaaS app for the music industry that helps labels more easily calculate and report their royalties. 
+Hi! I'm a full stack web developer [currently] building a SaaS app for the music industry that helps labels more easily calculate and report their royalties, check it out here: [soundsplits.com](https://www.soundsplits.com)
 
 ⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/) and tell me what you're up to!
 
