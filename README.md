@@ -1,5 +1,10 @@
 Hi! I'm a full stack web developer [currently] building a SaaS app for the music industry that helps labels more easily calculate and report their royalties, check it out at [soundsplits.com](https://www.soundsplits.com)
 
+## Recent projects to check out: 
+- (Frontend) [Socketchat, React frontend for Websocket chat app](https://github.com/xyeres/socketchat-client)
+- (Backend) [Web socket server implemented with Socket.io](https://github.com/xyeres/socketchat-server)
+- (Frontend) [Responsive semantic accordion card](https://github.com/xyeres/faq-accordion-card-main)
+
 ⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/) and tell me what you're up to!
 
 Stay curious. Do good. 🔭✨
