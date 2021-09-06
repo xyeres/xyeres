@@ -11,9 +11,14 @@
 Stay curious. Do good. 🔭✨
 
 ### Recent project screenshots
-Socketchat - chat client with React frontend ([codebase](https://github.com/xyeres/socketchat-client)) and WebSocket backend ([codebase](https://github.com/xyeres/socketchat-server)) app:
+Socketchat - chat client with React ([frontend codebase](https://github.com/xyeres/socketchat-client)) and WebSocket ([backend codebase](https://github.com/xyeres/socketchat-server)) app:
 
 ![](./screen-feature-md.png)
+
+[FAQ accordion](https://github.com/xyeres/faq-accordion-card-main) - semantic html with responsive SCSS layout, accessible and screen reader friendly:
+
+![](./screen-faq-card.png)
+
 
 <!--
 I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
