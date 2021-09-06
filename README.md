@@ -1,9 +1,9 @@
-#### Full stack web developer [currently] building a SaaS app for the music industry that helps labels more easily calculate and report their royalties, the codebase is private but check out the live product at [soundsplits.com](https://www.soundsplits.com)
+Full stack web developer currently building a SaaS for the music industry that helps labels easily calculate and report their royalties. The codebase is private but check out the live product site at [https://soundsplits.com](https://www.soundsplits.com)
 
 ## Recent projects to check out: 
-- (Frontend) [Chat client frontend built on React and styled from scratch](https://github.com/xyeres/socketchat-client)
-- (Backend) [WebSocket chat server implemented with Express & Socket.io](https://github.com/xyeres/socketchat-server)
-- (Frontend) [Responsive accordion card built from scratch with semantic HTML & SCSS](https://github.com/xyeres/faq-accordion-card-main)
+- [Chat client frontend built on React and styled from scratch](https://github.com/xyeres/socketchat-client)
+- [WebSocket chat server implemented with Express & Socket.io](https://github.com/xyeres/socketchat-server)
+- [Responsive accordion card built from scratch with semantic HTML & SCSS](https://github.com/xyeres/faq-accordion-card-main)
 
 ### Keep in touch
 ⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/), what projects are you currently working on?
@@ -11,7 +11,7 @@
 Stay curious. Do good. 🔭✨
 
 ### Recent project screenshots
-Socketchat - chat client with React ([frontend codebase](https://github.com/xyeres/socketchat-client)) and WebSocket ([backend codebase](https://github.com/xyeres/socketchat-server)) app:
+Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and [backend](https://github.com/xyeres/socketchat-server)):
 
 ![](./screen-feature-md.png)
 
