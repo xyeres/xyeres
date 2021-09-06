@@ -11,7 +11,7 @@ Full stack web developer currently building a SaaS for the music industry that h
 Stay curious. Do good. 🔭✨
 
 ### Recent project screenshots
-Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and [backend](https://github.com/xyeres/socketchat-server)):
+Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and [backend](https://github.com/xyeres/socketchat-server):
 
 ![](./screen-feature-md.png)
 
