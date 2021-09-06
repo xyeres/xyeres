@@ -10,10 +10,9 @@
 
 Stay curious. Do good. 🔭✨
 
-### Socketchat UI created from scratch
-![](./screenshot1.jpg)
-Socketchat messages screen
-![](./screenshot.jpg)
+### Recent project screenshots
+Socketchat frontend [codebase](https://github.com/xyeres/socketchat-client) and backend [codebase](https://github.com/xyeres/socketchat-server) app
+![](./socketchat-feature.png)
 
 <!--
 I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
