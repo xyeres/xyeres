@@ -11,7 +11,7 @@
 Stay curious. Do good. 🔭✨
 
 ### Recent project screenshots
-Socketchat frontend ([codebase])(https://github.com/xyeres/socketchat-client) and backend ([codebase])(https://github.com/xyeres/socketchat-server) app
+Socketchat frontend ([codebase](https://github.com/xyeres/socketchat-client)) and backend ([codebase](https://github.com/xyeres/socketchat-server)) app
 ![](./socketchat-feature.png)
 
 <!--
