@@ -1,4 +1,4 @@
-Below you'll find my recent projects, most of the source is open and I provide live demos of my work. Currently I'm building a SaaS for the music industry that helps labels easily calculate and report their royalties. The codebase is private but check out the live product site at [https://soundsplits.com](https://www.soundsplits.com)
+Below you'll find my recent projects, most of the source is open and I provide live demos of my work. Currently I'm building a SaaS for the music industry that helps labels easily calculate and report their royalties. The codebase is private but check it out live at [https://soundsplits.com](https://www.soundsplits.com)
 
 ## Recent projects to check out: 
 - [Chat client frontend built on React and styled from scratch](https://github.com/xyeres/socketchat-client)
