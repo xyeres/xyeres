@@ -12,7 +12,7 @@ Stay curious. Do good. 🔭✨
 
 ### Recent project screenshots
 Socketchat frontend ([codebase](https://github.com/xyeres/socketchat-client)) and backend ([codebase](https://github.com/xyeres/socketchat-server)) app
-![](./socketchat-feature.png)
+![](./screen-feature-md.png)
 
 <!--
 I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
