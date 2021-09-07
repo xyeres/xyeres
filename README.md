@@ -20,7 +20,7 @@ Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and 
 
 [Fylo component](https://github.com/xyeres/fylo-component) - An accessible, semantic Flexbox, SCSS, Keyframe animations UI component
 
-![](./screen-fylo-component.jpg)
+[![](./screen-fylo-component.jpg)](apple.com)
 
 
 Stay curious. Do good. 🔭✨
