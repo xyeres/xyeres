@@ -20,7 +20,9 @@ Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and 
 
 ![](./screen-faq-card.png)
 
+[Fylo component](https://github.com/xyeres/fylo-component) - An accessible, semantic Flexbox, SCSS, Keyframe animations UI component
 
+![](./screen-fylo-component.png)
 <!--
 I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
 **xyeres/xyeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
