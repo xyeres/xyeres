@@ -9,8 +9,6 @@ Below you'll find my recent projects, most of the source is open and I provide l
 ### Keep in touch
 ⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/), what projects are you currently working on?
 
-Stay curious. Do good. 🔭✨
-
 ### Recent project screenshots
 Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and [backend](https://github.com/xyeres/socketchat-server):
 
@@ -23,12 +21,10 @@ Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and 
 [Fylo component](https://github.com/xyeres/fylo-component) - An accessible, semantic Flexbox, SCSS, Keyframe animations UI component
 
 ![](./screen-fylo-component.jpg)
+
+
+Stay curious. Do good. 🔭✨
 <!--
-I tend to write things here and there on my blog at [xyeres.com](http://xyeres.com)
-**xyeres/xyeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
