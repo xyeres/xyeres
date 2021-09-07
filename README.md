@@ -12,15 +12,15 @@ Below you'll find my recent projects, most of the source is open and I provide l
 ### Recent project screenshots
 Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and [backend](https://github.com/xyeres/socketchat-server):
 
-![](./screen-feature-md.png)
+[![](./screen-feature-md.png)](https://github.com/xyeres/socketchat-client)
 
 [FAQ accordion](https://github.com/xyeres/faq-accordion-card-main) - semantic html with responsive SCSS layout, accessible and screen reader friendly:
 
-![](./screen-faq-card.png)
+[![](./screen-faq-card.png)](https://github.com/xyeres/faq-accordion-card-main)
 
 [Fylo component](https://github.com/xyeres/fylo-component) - An accessible, semantic Flexbox, SCSS, Keyframe animations UI component
 
-[![](./screen-fylo-component.jpg)](apple.com)
+[![](./screen-fylo-component.jpg)](https://github.com/xyeres/fylo-component)
 
 
 Stay curious. Do good. 🔭✨
