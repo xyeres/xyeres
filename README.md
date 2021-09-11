@@ -1,6 +1,7 @@
 Below you'll find my recent projects, most of the source is open and I provide live demos of my work. Currently I'm building a SaaS for the music industry that helps labels easily calculate and report their royalties. The codebase is private but check it out live at [https://soundsplits.com](https://www.soundsplits.com)
 
 ## Recent projects to check out: 
+- [DIY Courses React client to consume my REST API](https://github.com/xyeres/courses-client)
 - [Chat client frontend built on React and styled from scratch](https://github.com/xyeres/socketchat-client)
 - [WebSocket chat server implemented with Express & Socket.io](https://github.com/xyeres/socketchat-server)
 - [Responsive accordion card built from scratch with semantic HTML & SCSS](https://github.com/xyeres/faq-accordion-card-main)
@@ -10,6 +11,10 @@ Below you'll find my recent projects, most of the source is open and I provide l
 ⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/), what projects are you currently working on?
 
 ### Recent project screenshots
+[Courses client](https://github.com/xyeres/courses-client) - frontend React app that consumes my REST API
+
+[![](./screen-diy-courses.png)](https://github.com/xyeres/courses-client)
+
 Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and [backend](https://github.com/xyeres/socketchat-server):
 
 [![](./screen-feature-md.png)](https://github.com/xyeres/socketchat-client)
