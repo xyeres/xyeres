@@ -11,9 +11,9 @@ Below you'll find my recent projects, most of the source is open and I provide l
 ⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/), what projects are you currently working on?
 
 ### Recent project screenshots
-[Courses client](https://github.com/xyeres/courses-client) - frontend React app that consumes my REST API
+[Courses client](https://github.com/xyeres/courses-client) - frontend React app that consumes my [Courses REST API](https://github.com/xyeres/courses-api)
 
-[![](./screen-diy-courses.png)](https://github.com/xyeres/courses-client)
+[![](./screen-diy-courses.jpg)](https://github.com/xyeres/courses-client)
 
 Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and [backend](https://github.com/xyeres/socketchat-server):
 
