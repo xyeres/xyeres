@@ -8,7 +8,9 @@ Below you'll find recent projects, live demos and source code available to brows
 - [Accessible data usage component built with HTML & SCSS partials](https://github.com/xyeres/fylo-component)
 
 ### Keep in touch
-⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/), what projects are you currently working on?
+⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/), message me and tell me about the projects you're currently working on!
+
+Stay curious. Do good. 🔭✨ Let's make the web a better place for all!
 
 ### Recent project screenshots
 [Courses client](https://github.com/xyeres/courses-client) - frontend React app that consumes my [Courses REST API](https://github.com/xyeres/courses-api)
@@ -28,7 +30,7 @@ Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and 
 [![](./screen-fylo-component.jpg)](https://github.com/xyeres/fylo-component)
 
 
-Stay curious. Do good. 🔭✨
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
