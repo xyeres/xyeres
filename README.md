@@ -22,6 +22,9 @@ Socketchat - chat app [client](https://github.com/xyeres/socketchat-client) and 
 
 [![](./screen-feature-md.png)](https://github.com/xyeres/socketchat-client)
 
+[SoundSplits.com](https://github.com/mallocked/splits-landing) - UI design and implementation in Tailwind CSS
+[![](./screen-sound-splits.jpg)](https://github.com/mallocked/splits-landing)
+
 [FAQ accordion](https://github.com/xyeres/faq-accordion-card-main) - semantic html with responsive SCSS layout, accessible and screen reader friendly:
 
 [![](./screen-faq-card.png)](https://github.com/xyeres/faq-accordion-card-main)
