@@ -5,6 +5,7 @@ Below you'll find recent projects, live demos and source code available to brows
 - [Courses - React client to consume my REST API](https://github.com/xyeres/courses-client)
 - [Socketchat client - frontend built on React and styled from scratch](https://github.com/xyeres/socketchat-client)
 - [WebSocket chat server implemented with Express & Socket.io](https://github.com/xyeres/socketchat-server)
+- [Soundsplits.com front page built with Tailwind CSS](https://github.com/mallocked/splits-landing)
 - [Responsive accordion card built from scratch with semantic HTML & SCSS](https://github.com/xyeres/faq-accordion-card-main)
 - [Accessible data usage component built with HTML & SCSS partials](https://github.com/xyeres/fylo-component)
 
