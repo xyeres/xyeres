@@ -15,7 +15,7 @@ Below you'll find recent projects, live demos and source code available to brows
 Stay curious. Do good. 🔭✨ Let's make the web a better place for all.
 
 ### Recent project screenshots
-[Courses client](https://github.com/xyeres/courses-client) - frontend React app that consumes my [Courses REST API](https://github.com/xyeres/courses-api)
+[Courses - client](https://github.com/xyeres/courses-client) - frontend React app that consumes my custom [REST API ](https://github.com/xyeres/courses-api)
 
 [![](./screen-diy-courses.jpg)](https://github.com/xyeres/courses-client)
 
