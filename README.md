@@ -18,7 +18,7 @@ Stay curious. Do good. 🔭✨ Let's make the web a better place for all.
 ### Recent project screenshots
 [Streamy - music streaming app for my client United Pursuit Records](https://github.com/xyeres/streamy)
 
-[![](./screen-streamy.jpg](https://github.com/xyeres/streamy)
+[![](./screen-streamy.jpg)](https://github.com/xyeres/streamy)
 
 [Courses client](https://github.com/xyeres/courses-client) - frontend React app that consumes my custom [REST API ](https://github.com/xyeres/courses-api)
 
