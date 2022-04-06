@@ -2,6 +2,7 @@ Hi there! :monocle_face:
 Below you'll find my recent projects, live demos and source code available to browse. Currently, I'm building a SaaS product for the music industry that helps labels easily calculate and report their royalties. The codebase is private but check out the live site at [soundsplits.com](https://www.soundsplits.com)
 
 ## Recent projects: 
+- [Streamy - music streaming app for my client United Pursuit Records](https://github.com/xyeres/streamy)
 - [Courses - React client to consume my REST API](https://github.com/xyeres/courses-client)
 - [Socketchat frontend client built on React and styled from scratch](https://github.com/xyeres/socketchat-client)
 - [Socketchat backend - implemented with Express & Socket.io](https://github.com/xyeres/socketchat-server)
