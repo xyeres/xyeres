@@ -1,5 +1,5 @@
 Hi there! :monocle_face:
-Below you'll find some of my recent projects, live demos and source code available to browse. Currently, I'm building a SaaS product for the music industry that helps labels easily calculate and report their royalties. The codebase is private but check out the live site at [soundsplits.com](https://www.soundsplits.com)
+Below you'll find some of my recent projects, live demos and source code available to browse. Currently, I'm building a SaaS product for the music industry that helps labels easily calculate and report their royalties. The codebase is private but check out it out at [soundsplits.com](https://www.soundsplits.com)
 
 ## Recent projects: 
 - [Streamy - music streaming web app for United Pursuit Records](https://github.com/xyeres/streamy)
