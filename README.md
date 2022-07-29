@@ -1,5 +1,5 @@
 Hi! :monocle_face:
-Here are ome of my recent projects, live demos and source code. 
+Here are some of my projects and source code. 
 
 Currently, I'm building a [music streaming app with Next.js](https://github.com/xyeres/streamy) for United Pursuit Records.
 
