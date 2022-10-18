@@ -1,7 +1,7 @@
 Hi! :monocle_face:
 Here are some of my projects and source code. 
 
-Currently, I'm building a [music streaming app with Next.js](https://github.com/xyeres/streamy) for United Pursuit Records.
+Currently, I'm building a [music streaming app with Next.js](https://github.com/xyeres/streamy) for United Pursuit Records
 
 ## Recent projects: 
 - [Tip A Developer - web3 dApp built with Solidity, Next.js and Ethers.js](https://github.com/xyeres/web3-tip-a-developer)
