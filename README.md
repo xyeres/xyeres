@@ -1,19 +1,12 @@
 Hi! :monocle_face:
-Here are some of my projects and source code. 
-
-Currently, I'm building a [music streaming app with Next.js](https://github.com/xyeres/streamy) for United Pursuit Records
-
-## Recent projects: 
-- [Tip A Developer - web3 dApp built with Solidity, Next.js and Ethers.js](https://github.com/xyeres/web3-tip-a-developer)
-- [Streamy - Next.js music streaming app for United Pursuit Records](https://github.com/xyeres/streamy)
-- [Sound Splits front page built with React and Tailwind](https://github.com/mallocked/splits-landing)
+Currently building full stack apps and sites for Hero Creative
 
 ### Keep in touch
 ⚡ [Connect with me on LinkedIn](https://www.linkedin.com/in/mxcarr/), message me and tell me about the projects you're currently working on!
 
 Stay curious. Do good. Let's make the web a better place for all.
 
-### Recent project screenshots
+### Recent personal projects
 
 [Streamy - music streaming app for United Pursuit Records](https://github.com/xyeres/streamy)  📚  Next.js / React / Redux / Firebase
 
